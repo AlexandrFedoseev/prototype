@@ -1,0 +1,185 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,plains_4_png,plains_3_png,island_3_png,island_4_png,island_2_png,plains_2_png,forest_2_png,forest_3_png,forest_4_png,forest_1_png,island_1_png,plains_1_png,mountain_2_png,mountain_3_png,mountain_1_png,mountain_4_png,swamp_1_png,swamp_2_png,swamp_3_png,swamp_4_png,rat_1_png,skeleton_1_png,zombie_1_png,soul_1_png,shade_1_png,goblin_1_png,orc_1_png,orc_berserker_1_png,hell_hound_1_png,minotaur_1_png,fire_ant_1_png,portal_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/lands/basic/plains_4.png",
+			"type": "image",
+			"name": "plains_4_png"
+		},
+		{
+			"url": "assets/lands/basic/plains_3.png",
+			"type": "image",
+			"name": "plains_3_png"
+		},
+		{
+			"url": "assets/lands/basic/island_3.png",
+			"type": "image",
+			"name": "island_3_png"
+		},
+		{
+			"url": "assets/lands/basic/island_4.png",
+			"type": "image",
+			"name": "island_4_png"
+		},
+		{
+			"url": "assets/lands/basic/island_2.png",
+			"type": "image",
+			"name": "island_2_png"
+		},
+		{
+			"url": "assets/lands/basic/plains_2.png",
+			"type": "image",
+			"name": "plains_2_png"
+		},
+		{
+			"url": "assets/lands/basic/forest_2.png",
+			"type": "image",
+			"name": "forest_2_png"
+		},
+		{
+			"url": "assets/lands/basic/forest_3.png",
+			"type": "image",
+			"name": "forest_3_png"
+		},
+		{
+			"url": "assets/lands/basic/forest_4.png",
+			"type": "image",
+			"name": "forest_4_png"
+		},
+		{
+			"url": "assets/lands/basic/forest_1.png",
+			"type": "image",
+			"name": "forest_1_png"
+		},
+		{
+			"url": "assets/lands/basic/island_1.png",
+			"type": "image",
+			"name": "island_1_png"
+		},
+		{
+			"url": "assets/lands/basic/plains_1.png",
+			"type": "image",
+			"name": "plains_1_png"
+		},
+		{
+			"url": "assets/lands/basic/mountain_2.png",
+			"type": "image",
+			"name": "mountain_2_png"
+		},
+		{
+			"url": "assets/lands/basic/mountain_3.png",
+			"type": "image",
+			"name": "mountain_3_png"
+		},
+		{
+			"url": "assets/lands/basic/mountain_1.png",
+			"type": "image",
+			"name": "mountain_1_png"
+		},
+		{
+			"url": "assets/lands/basic/mountain_4.png",
+			"type": "image",
+			"name": "mountain_4_png"
+		},
+		{
+			"name": "swamp_1_png",
+			"type": "image",
+			"url": "assets/lands/basic/swamp_1.png"
+		},
+		{
+			"name": "swamp_2_png",
+			"type": "image",
+			"url": "assets/lands/basic/swamp_2.png"
+		},
+		{
+			"name": "swamp_3_png",
+			"type": "image",
+			"url": "assets/lands/basic/swamp_3.png"
+		},
+		{
+			"name": "swamp_4_png",
+			"type": "image",
+			"url": "assets/lands/basic/swamp_4.png"
+		},
+		{
+			"name": "rat_1_png",
+			"type": "image",
+			"url": "assets/creatures/rat_1.png"
+		},
+		{
+			"name": "skeleton_1_png",
+			"type": "image",
+			"url": "assets/creatures/skeleton_1.png"
+		},
+		{
+			"name": "zombie_1_png",
+			"type": "image",
+			"url": "assets/creatures/zombie_1.png"
+		},
+		{
+			"name": "soul_1_png",
+			"type": "image",
+			"url": "assets/creatures/soul_1.png"
+		},
+		{
+			"name": "shade_1_png",
+			"type": "image",
+			"url": "assets/creatures/shade_1.png"
+		},
+		{
+			"name": "goblin_1_png",
+			"type": "image",
+			"url": "assets/creatures/goblin_1.png"
+		},
+		{
+			"name": "orc_1_png",
+			"type": "image",
+			"url": "assets/creatures/orc_1.png"
+		},
+		{
+			"name": "orc_berserker_1_png",
+			"type": "image",
+			"url": "assets/creatures/orc_berserker_1.png"
+		},
+		{
+			"name": "hell_hound_1_png",
+			"type": "image",
+			"url": "assets/creatures/hell_hound_1.png"
+		},
+		{
+			"name": "minotaur_1_png",
+			"type": "image",
+			"url": "assets/creatures/minotaur_1.png"
+		},
+		{
+			"name": "fire_ant_1_png",
+			"type": "image",
+			"url": "assets/creatures/fire_ant_1.png"
+		},
+		{
+			"name": "portal_png",
+			"type": "image",
+			"url": "assets/lands/portal.png"
+		}
+	]
+}
