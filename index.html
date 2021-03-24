@@ -57,11 +57,6 @@
                     context.msBackingStorePixelRatio ||
                     context.oBackingStorePixelRatio ||
                     context.backingStorePixelRatio || 1;
-                const canvas = window.geElementsByType("canvas")[0];
-                canvas.width = width * window.devicePixelRatio;
-                canvas.height = height * window.devicePixelRatio;
-                canvas.style.width = width + 'px';
-                canvas.style.height = height + 'px';
                 return (window.devicePixelRatio || 1) / 1;
             }});
         });
