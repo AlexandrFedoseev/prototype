@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,plains_4_png,plains_3_png,island_3_png,island_4_png,island_2_png,plains_2_png,forest_2_png,forest_3_png,forest_4_png,forest_1_png,island_1_png,plains_1_png,mountain_2_png,mountain_3_png,mountain_1_png,mountain_4_png,swamp_1_png,swamp_2_png,swamp_3_png,swamp_4_png,rat_1_png,skeleton_1_png,zombie_1_png,soul_1_png,shade_1_png,goblin_1_png,orc_1_png,orc_berserker_1_png,hell_hound_1_png,minotaur_1_png,fire_ant_1_png,portal_png,hawk_1_png,human_cleric_1_png,griffin_1_png,human_soldier_1_png,human_inquisitor_1_png,portal_1_png,crab_1_png,merfolk_1_png,sphinx_1_png,drake_1_png,air_elemental_1_png,elf_scout_1_png,wolf_1_png,mammoth_1_png,boar_1_png,spider_1_png,strix_1_png,minotaur_2_png",
+			"keys": "bg_jpg,egret_icon_png,description_json,plains_4_png,plains_3_png,island_3_png,island_4_png,island_2_png,plains_2_png,forest_2_png,forest_3_png,forest_4_png,forest_1_png,island_1_png,plains_1_png,mountain_2_png,mountain_3_png,mountain_1_png,mountain_4_png,swamp_1_png,swamp_2_png,swamp_3_png,swamp_4_png,rat_1_png,skeleton_1_png,zombie_1_png,soul_1_png,shade_1_png,goblin_1_png,orc_1_png,orc_berserker_1_png,hell_hound_1_png,minotaur_1_png,fire_ant_1_png,portal_png,hawk_1_png,human_cleric_1_png,griffin_1_png,human_soldier_1_png,human_inquisitor_1_png,portal_1_png,crab_1_png,merfolk_1_png,sphinx_1_png,drake_1_png,air_elemental_1_png,elf_scout_1_png,wolf_1_png,mammoth_1_png,boar_1_png,spider_1_png,strix_1_png,minotaur_2_png,group-leader_svg,group-defend_svg",
 			"name": "preload"
 		},
 		{
@@ -279,6 +279,16 @@
 			"name": "minotaur_2_png",
 			"type": "image",
 			"url": "assets/creatures/minotaur_2.png"
+		},
+		{
+			"name": "group-leader_svg",
+			"type": "image",
+			"url": "assets/group-leader.svg"
+		},
+		{
+			"name": "group-defend_svg",
+			"type": "image",
+			"url": "assets/group-defend.svg"
 		}
 	]
 }
