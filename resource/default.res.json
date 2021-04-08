@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,rat_1_png,skeleton_1_png,zombie_1_png,soul_1_png,shade_1_png,goblin_1_png,orc_1_png,orc_berserker_1_png,hell_hound_1_png,minotaur_1_png,fire_ant_1_png,portal_png,hawk_1_png,human_cleric_1_png,griffin_1_png,human_soldier_1_png,human_inquisitor_1_png,portal_1_png,crab_1_png,merfolk_1_png,sphinx_1_png,drake_1_png,air_elemental_1_png,elf_scout_1_png,wolf_1_png,mammoth_1_png,boar_1_png,spider_1_png,strix_1_png,minotaur_2_png,group-leader_svg,overgrown_tomb_png,sacred_foundry_png,breeding_pool_png,steam_vents_png,godless_shrine_png,group-defend_svg,youthful_knight_png,angelic_page_png,serra_angel_png,silent_attendant_png,thornwind_faeries_png,sea_sprite_png,vodalian_hypnotist_png,diplomatic_escort_png,coral_merfolk_png,island_1_png,swamp_1_png,mountain_1_png,forest_1_png,plains_1_png,aegis_of_heavens_png,revitalize_png,divine_arrow_png,brainstorm_png,faeries_png,reversal_png",
+			"keys": "bg_jpg,egret_icon_png,description_json,rat_1_png,skeleton_1_png,zombie_1_png,soul_1_png,shade_1_png,goblin_1_png,orc_1_png,orc_berserker_1_png,hell_hound_1_png,minotaur_1_png,fire_ant_1_png,portal_png,hawk_1_png,human_cleric_1_png,griffin_1_png,human_soldier_1_png,human_inquisitor_1_png,portal_1_png,crab_1_png,merfolk_1_png,sphinx_1_png,drake_1_png,air_elemental_1_png,elf_scout_1_png,wolf_1_png,mammoth_1_png,boar_1_png,spider_1_png,strix_1_png,minotaur_2_png,group-leader_svg,overgrown_tomb_png,sacred_foundry_png,breeding_pool_png,steam_vents_png,godless_shrine_png,group-defend_svg,youthful_knight_png,angelic_page_png,serra_angel_png,silent_attendant_png,thornwind_faeries_png,sea_sprite_png,vodalian_hypnotist_png,diplomatic_escort_png,coral_merfolk_png,island_1_png,swamp_1_png,mountain_1_png,forest_1_png,plains_1_png,aegis_of_heavens_png,revitalize_png,divine_arrow_png,brainstorm_png,faeries_png,reversal_png,mnemonic_nexus_png",
 			"name": "preload"
 		},
 		{
@@ -314,6 +314,11 @@
 			"name": "reversal_png",
 			"type": "image",
 			"url": "assets/skills/u/reversal.png"
+		},
+		{
+			"name": "mnemonic_nexus_png",
+			"type": "image",
+			"url": "assets/skills/u/mnemonic_nexus.png"
 		}
 	]
 }
