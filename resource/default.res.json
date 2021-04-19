@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,rat_1_png,skeleton_1_png,zombie_1_png,soul_1_png,shade_1_png,goblin_1_png,orc_1_png,orc_berserker_1_png,hell_hound_1_png,minotaur_1_png,fire_ant_1_png,portal_png,hawk_1_png,human_cleric_1_png,griffin_1_png,human_soldier_1_png,human_inquisitor_1_png,portal_1_png,crab_1_png,merfolk_1_png,sphinx_1_png,drake_1_png,air_elemental_1_png,elf_scout_1_png,wolf_1_png,mammoth_1_png,boar_1_png,spider_1_png,strix_1_png,minotaur_2_png,group-leader_svg,overgrown_tomb_png,sacred_foundry_png,breeding_pool_png,steam_vents_png,godless_shrine_png,group-defend_svg,youthful_knight_png,angelic_page_png,serra_angel_png,silent_attendant_png,thornwind_faeries_png,sea_sprite_png,vodalian_hypnotist_png,diplomatic_escort_png,coral_merfolk_png,island_1_png,swamp_1_png,mountain_1_png,forest_1_png,plains_1_png,aegis_of_heavens_png,revitalize_png,divine_arrow_png,brainstorm_png,faeries_png,reversal_png,mnemonic_nexus_png",
+			"keys": "egret_icon_png,description_json,soul_1_png,group-leader_svg,group-defend_svg,youthful_knight_png,stagger_png,plains_1_png,plains_2_png,portal_1_png,portal_png,ephemerate_png,gods_willing_png,estus_0_png,estus_1_png,ashen_0_png,ashen_1_png,estus_2_png,ashen_2_png,estus_3_png,ashen_3_png,defiant_strike_png,divine_blessing_png,divine_health_png,home_grounds_png,game_sceme_bg_png",
 			"name": "preload"
 		},
 		{
@@ -10,11 +10,6 @@
 		}
 	],
 	"resources": [
-		{
-			"url": "assets/bg.jpg",
-			"type": "image",
-			"name": "bg_jpg"
-		},
 		{
 			"url": "assets/egret_icon.png",
 			"type": "image",
@@ -26,144 +21,9 @@
 			"name": "description_json"
 		},
 		{
-			"url": "assets/creatures/rat_1.png",
-			"type": "image",
-			"name": "rat_1_png"
-		},
-		{
-			"url": "assets/creatures/skeleton_1.png",
-			"type": "image",
-			"name": "skeleton_1_png"
-		},
-		{
-			"url": "assets/creatures/zombie_1.png",
-			"type": "image",
-			"name": "zombie_1_png"
-		},
-		{
 			"url": "assets/creatures/soul_1.png",
 			"type": "image",
 			"name": "soul_1_png"
-		},
-		{
-			"url": "assets/creatures/shade_1.png",
-			"type": "image",
-			"name": "shade_1_png"
-		},
-		{
-			"url": "assets/creatures/goblin_1.png",
-			"type": "image",
-			"name": "goblin_1_png"
-		},
-		{
-			"url": "assets/creatures/orc_1.png",
-			"type": "image",
-			"name": "orc_1_png"
-		},
-		{
-			"url": "assets/creatures/orc_berserker_1.png",
-			"type": "image",
-			"name": "orc_berserker_1_png"
-		},
-		{
-			"url": "assets/creatures/hell_hound_1.png",
-			"type": "image",
-			"name": "hell_hound_1_png"
-		},
-		{
-			"url": "assets/creatures/minotaur_1.png",
-			"type": "image",
-			"name": "minotaur_1_png"
-		},
-		{
-			"url": "assets/creatures/fire_ant_1.png",
-			"type": "image",
-			"name": "fire_ant_1_png"
-		},
-		{
-			"url": "assets/lands/portal.png",
-			"type": "image",
-			"name": "portal_png"
-		},
-		{
-			"url": "assets/creatures/hawk_1.png",
-			"type": "image",
-			"name": "hawk_1_png"
-		},
-		{
-			"url": "assets/creatures/human_cleric_1.png",
-			"type": "image",
-			"name": "human_cleric_1_png"
-		},
-		{
-			"url": "assets/creatures/griffin_1.png",
-			"type": "image",
-			"name": "griffin_1_png"
-		},
-		{
-			"url": "assets/creatures/human_soldier_1.png",
-			"type": "image",
-			"name": "human_soldier_1_png"
-		},
-		{
-			"url": "assets/creatures/human_inquisitor_1.png",
-			"type": "image",
-			"name": "human_inquisitor_1_png"
-		},
-		{
-			"url": "assets/lands/portal_1.png",
-			"type": "image",
-			"name": "portal_1_png"
-		},
-		{
-			"url": "assets/creatures/crab_1.png",
-			"type": "image",
-			"name": "crab_1_png"
-		},
-		{
-			"url": "assets/creatures/merfolk_1.png",
-			"type": "image",
-			"name": "merfolk_1_png"
-		},
-		{
-			"url": "assets/creatures/sphinx_1.png",
-			"type": "image",
-			"name": "sphinx_1_png"
-		},
-		{
-			"url": "assets/creatures/drake_1.png",
-			"type": "image",
-			"name": "drake_1_png"
-		},
-		{
-			"url": "assets/creatures/air_elemental_1.png",
-			"type": "image",
-			"name": "air_elemental_1_png"
-		},
-		{
-			"url": "assets/creatures/elf_scout_1.png",
-			"type": "image",
-			"name": "elf_scout_1_png"
-		},
-		{
-			"url": "assets/creatures/wolf_1.png",
-			"type": "image",
-			"name": "wolf_1_png"
-		},
-		{
-			"url": "assets/creatures/mammoth_1.png",
-			"type": "image",
-			"name": "mammoth_1_png"
-		},
-		{
-			"url": "assets/creatures/boar_1.png",
-			"type": "image",
-			"name": "boar_1_png"
-		},
-		{
-			"url": "assets/creatures/spider_1.png",
-			"type": "image",
-			"name": "spider_1_png"
 		},
 		{
 			"url": "assets/barricade.jpg",
@@ -171,44 +31,9 @@
 			"name": "barricade_jpg"
 		},
 		{
-			"url": "assets/creatures/strix_1.png",
-			"type": "image",
-			"name": "strix_1_png"
-		},
-		{
-			"url": "assets/creatures/minotaur_2.png",
-			"type": "image",
-			"name": "minotaur_2_png"
-		},
-		{
 			"url": "assets/group-leader.svg",
 			"type": "image",
 			"name": "group-leader_svg"
-		},
-		{
-			"url": "assets/dungeons/bg/overgrown_tomb.png",
-			"type": "image",
-			"name": "overgrown_tomb_png"
-		},
-		{
-			"url": "assets/dungeons/rw/sacred_foundry.png",
-			"type": "image",
-			"name": "sacred_foundry_png"
-		},
-		{
-			"url": "assets/dungeons/gu/breeding_pool.png",
-			"type": "image",
-			"name": "breeding_pool_png"
-		},
-		{
-			"url": "assets/dungeons/ur/steam_vents.png",
-			"type": "image",
-			"name": "steam_vents_png"
-		},
-		{
-			"url": "assets/dungeons/wb/godless_shrine.png",
-			"type": "image",
-			"name": "godless_shrine_png"
 		},
 		{
 			"url": "assets/group-defend.svg",
@@ -221,104 +46,104 @@
 			"url": "assets/creatures/w/youthful_knight.png"
 		},
 		{
-			"name": "angelic_page_png",
+			"name": "stagger_png",
 			"type": "image",
-			"url": "assets/creatures/w/angelic_page.png"
-		},
-		{
-			"name": "serra_angel_png",
-			"type": "image",
-			"url": "assets/creatures/w/serra_angel.png"
-		},
-		{
-			"name": "silent_attendant_png",
-			"type": "image",
-			"url": "assets/creatures/w/silent_attendant.png"
-		},
-		{
-			"name": "thornwind_faeries_png",
-			"type": "image",
-			"url": "assets/creatures/u/thornwind_faeries.png"
-		},
-		{
-			"name": "sea_sprite_png",
-			"type": "image",
-			"url": "assets/creatures/u/sea_sprite.png"
-		},
-		{
-			"name": "vodalian_hypnotist_png",
-			"type": "image",
-			"url": "assets/creatures/u/vodalian_hypnotist.png"
-		},
-		{
-			"name": "diplomatic_escort_png",
-			"type": "image",
-			"url": "assets/creatures/u/diplomatic_escort.png"
-		},
-		{
-			"name": "coral_merfolk_png",
-			"type": "image",
-			"url": "assets/creatures/u/coral_merfolk.png"
-		},
-		{
-			"name": "island_1_png",
-			"type": "image",
-			"url": "assets/lands/island_1.png"
-		},
-		{
-			"name": "swamp_1_png",
-			"type": "image",
-			"url": "assets/lands/swamp_1.png"
-		},
-		{
-			"name": "mountain_1_png",
-			"type": "image",
-			"url": "assets/lands/mountain_1.png"
-		},
-		{
-			"name": "forest_1_png",
-			"type": "image",
-			"url": "assets/lands/forest_1.png"
+			"url": "assets/effects/stagger.png"
 		},
 		{
 			"name": "plains_1_png",
 			"type": "image",
-			"url": "assets/lands/plains_1.png"
+			"url": "assets/lands/w/plains_1.png"
 		},
 		{
-			"name": "aegis_of_heavens_png",
+			"name": "plains_2_png",
 			"type": "image",
-			"url": "assets/skills/w/aegis_of_heavens.png"
+			"url": "assets/lands/w/plains_2.png"
 		},
 		{
-			"name": "revitalize_png",
+			"name": "portal_1_png",
 			"type": "image",
-			"url": "assets/skills/w/revitalize.png"
+			"url": "assets/lands/portal_1.png"
 		},
 		{
-			"name": "divine_arrow_png",
+			"name": "portal_png",
 			"type": "image",
-			"url": "assets/skills/w/divine_arrow.png"
+			"url": "assets/lands/portal.png"
 		},
 		{
-			"name": "brainstorm_png",
+			"name": "ephemerate_png",
 			"type": "image",
-			"url": "assets/skills/u/brainstorm.png"
+			"url": "assets/skills/w/ephemerate.png"
 		},
 		{
-			"name": "faeries_png",
+			"name": "gods_willing_png",
 			"type": "image",
-			"url": "assets/skills/u/faeries.png"
+			"url": "assets/skills/w/gods_willing.png"
 		},
 		{
-			"name": "reversal_png",
+			"name": "estus_0_png",
 			"type": "image",
-			"url": "assets/skills/u/reversal.png"
+			"url": "assets/skills/f/estus_0.png"
 		},
 		{
-			"name": "mnemonic_nexus_png",
+			"name": "estus_1_png",
 			"type": "image",
-			"url": "assets/skills/u/mnemonic_nexus.png"
+			"url": "assets/skills/f/estus_1.png"
+		},
+		{
+			"name": "ashen_0_png",
+			"type": "image",
+			"url": "assets/skills/f/ashen_0.png"
+		},
+		{
+			"name": "ashen_1_png",
+			"type": "image",
+			"url": "assets/skills/f/ashen_1.png"
+		},
+		{
+			"name": "estus_2_png",
+			"type": "image",
+			"url": "assets/skills/f/estus_2.png"
+		},
+		{
+			"name": "ashen_2_png",
+			"type": "image",
+			"url": "assets/skills/f/ashen_2.png"
+		},
+		{
+			"name": "estus_3_png",
+			"type": "image",
+			"url": "assets/skills/f/estus_3.png"
+		},
+		{
+			"name": "ashen_3_png",
+			"type": "image",
+			"url": "assets/skills/f/ashen_3.png"
+		},
+		{
+			"name": "defiant_strike_png",
+			"type": "image",
+			"url": "assets/skills/w/defiant_strike.png"
+		},
+		{
+			"name": "divine_blessing_png",
+			"type": "image",
+			"url": "assets/skills/f/divine_blessing.png"
+		},
+		{
+			"name": "divine_health_png",
+			"type": "image",
+			"url": "assets/skills/w/divine_health.png"
+		},
+		{
+			"name": "home_grounds_png",
+			"type": "image",
+			"url": "assets/skills/w/home_grounds.png"
+		},
+		{
+			"name": "game_sceme_bg_png",
+			"type": "image",
+			"url": "assets/game_sceme_bg.png"
 		}
 	]
 }
