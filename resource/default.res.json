@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "egret_icon_png,description_json,soul_1_png,group-leader_svg,group-defend_svg,youthful_knight_png,stagger_png,plains_1_png,plains_2_png,portal_1_png,portal_png,ephemerate_png,gods_willing_png,estus_0_png,estus_1_png,ashen_0_png,ashen_1_png,estus_2_png,ashen_2_png,estus_3_png,ashen_3_png,defiant_strike_png,divine_blessing_png,divine_health_png,home_grounds_png,game_sceme_bg_png,bonefire_1_png,bonefire_0_png",
+			"keys": "egret_icon_png,description_json,soul_1_png,group-leader_svg,group-defend_svg,youthful_knight_png,stagger_png,plains_1_png,plains_2_png,portal_1_png,portal_png,ephemerate_png,gods_willing_png,estus_0_png,estus_1_png,ashen_0_png,ashen_1_png,estus_2_png,ashen_2_png,estus_3_png,ashen_3_png,defiant_strike_png,divine_blessing_png,divine_health_png,home_grounds_png,game_sceme_bg_png,bonefire_1_png,bonefire_0_png,kingpins_pet_png,abjudicator_of_the_law_png,godless_shrine_png",
 			"name": "preload"
 		},
 		{
@@ -154,6 +154,21 @@
 			"name": "bonefire_0_png",
 			"type": "image",
 			"url": "assets/creatures/bonefire_0.png"
+		},
+		{
+			"name": "kingpins_pet_png",
+			"type": "image",
+			"url": "assets/creatures/wb/kingpins_pet.png"
+		},
+		{
+			"name": "abjudicator_of_the_law_png",
+			"type": "image",
+			"url": "assets/creatures/wb/abjudicator_of_the_law.png"
+		},
+		{
+			"name": "godless_shrine_png",
+			"type": "image",
+			"url": "assets/lands/wb/godless_shrine.png"
 		}
 	]
 }
